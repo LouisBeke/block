@@ -1,11 +1,13 @@
-||ads30.adcolony.com^
-||adc3-launch.adcolony.com^
-||events3alt.adcolony.com^
-||wd.adcolony.com^
+!============ Ads =============
 
-||mouseflow.com^
-||cdn.mouseflow.com^
-||o2.mouseflow.com^
-||tools.mouseflow.com^
-
+||cdn-test.mouseflow.com^
+||api.luckyorange.com^
 ||realtime.luckyorange.com^
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||events.reddit.com^
+||widgets.pinterest.com^
